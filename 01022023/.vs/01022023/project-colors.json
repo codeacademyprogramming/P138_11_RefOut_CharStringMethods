@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ae88aaf-3e65-4230-8e41-67b14674b156": {
+      "ProjectGuid": "9ae88aaf-3e65-4230-8e41-67b14674b156",
+      "DisplayName": "Homeworks",
+      "ColorIndex": 0
+    },
+    "55a1ce5b-106d-4792-94c3-2f642da2c23e": {
+      "ProjectGuid": "55a1ce5b-106d-4792-94c3-2f642da2c23e",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "6b925cfb-48fb-4c51-8119-b871b3f594cb": {
+      "ProjectGuid": "6b925cfb-48fb-4c51-8119-b871b3f594cb",
+      "DisplayName": "Methods",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
